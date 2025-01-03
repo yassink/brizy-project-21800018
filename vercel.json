@@ -1,0 +1,1 @@
+{"routes":[{"src":"/test","dest":"/test.html"},{"src":"/","dest":"/index.html"},{"src":"/blog","dest":"/blog.html"}]}
